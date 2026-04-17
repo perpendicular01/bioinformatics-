@@ -80,37 +80,7 @@ class DataMerger:
         result.update(disease)          # overwrite with actual data
         return result
 
-    def _deduplicate(self, diseases: list[dict]) -> list[dict]:
-        seen_orpha = set()
-        seen_omim  = set()
-        seen_icd   = set()
-        seen_names = set()
-        unique     = []
-
-        for d in diseases:
-            orpha = d.get("orpha_code")
-            omim  = d.get("omim_id")
-            icd   = d.get("icd_10_code", "").strip()
-            name  = self._normalize_name(d.get("disease_name", "")).lower()
-
-            # Check for duplicates
-            if orpha and orpha in seen_orpha:
-                continue
-            if omim and omim in seen_omim:
-                continue
-            if name and name in seen_names:
-                continue
-
-            # Mark as seen
-            if orpha: seen_orpha.add(orpha)
-            if omim:  seen_omim.add(omim)
-            if icd:   seen_icd.add(icd)
-            if name:  seen_names.add(name)
-
-            unique.append(d)
-
-        return unique
-
+   
     def _normalize_name(self, name: str) -> str:
         """Strips extra whitespace, fixes obvious formatting issues."""
         name = re.sub(r"\s+", " ", name).strip()
