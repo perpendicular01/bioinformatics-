@@ -1,0 +1,170 @@
+{
+  "summary": {
+    "total_diseases": 437,
+    "rare_diseases": 362,
+    "common_diseases": 75,
+    "valid_records": 75,
+    "invalid_records": 362,
+    "low_symptom_count": 1
+  },
+  "field_completeness_pct": {
+    "orpha_code": 82.8,
+    "omim_id": 95.2,
+    "disease_name": 100.0,
+    "synonyms": 68.9,
+    "disease_type": 100.0,
+    "disease_category": 100.0,
+    "icd_10_code": 82.8,
+    "prevalence": 17.2,
+    "age_of_onset": 17.2,
+    "gender_bias": 100.0,
+    "symptoms": 100.0,
+    "gene_involved": 74.8,
+    "inheritance": 95.2,
+    "lab_findings": 0.0,
+    "misdiagnosed_as": 0.0,
+    "pubmed_ids": 0.0
+  },
+  "invalid_record_details": [
+    {
+      "index": 0,
+      "disease_name": "22q11.2 deletion syndrome",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 1,
+      "disease_name": "2p21 microdeletion syndrome",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 2,
+      "disease_name": "46,XY difference of sex development due to 17-beta-hydroxysteroid dehydrogenase 3 deficiency",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 3,
+      "disease_name": "46,XY difference of sex development-adrenal insufficiency due to CYP11A1 deficiency",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 4,
+      "disease_name": "46,XY gonadal dysgenesis-motor and sensory neuropathy syndrome",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 5,
+      "disease_name": "47,XYY syndrome",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 6,
+      "disease_name": "Aarskog-Scott syndrome",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 7,
+      "disease_name": "Abetalipoproteinemia",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 8,
+      "disease_name": "Achondroplasia",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 9,
+      "disease_name": "Acrocallosal syndrome",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 10,
+      "disease_name": "Acromegaly",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 11,
+      "disease_name": "Adenosine monophosphate deaminase deficiency",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 12,
+      "disease_name": "Adult Refsum disease",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 13,
+      "disease_name": "Adult-onset nemaline myopathy",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 14,
+      "disease_name": "Aicardi syndrome",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 15,
+      "disease_name": "Alagille syndrome",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 16,
+      "disease_name": "Albers-Sch\u00f6nberg osteopetrosis",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 17,
+      "disease_name": "Albinism-deafness syndrome",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 18,
+      "disease_name": "Alexander disease",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    },
+    {
+      "index": 19,
+      "disease_name": "Alkaptonuria",
+      "missing_fields": [
+        "age_of_onset"
+      ]
+    }
+  ]
+}
