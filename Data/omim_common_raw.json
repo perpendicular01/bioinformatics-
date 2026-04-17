@@ -1,0 +1,3737 @@
+[
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:619534",
+    "disease_name": "Hypertension Essential",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621557",
+    "disease_name": "Coronary Artery Disease",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621539",
+    "disease_name": "Heart Failure",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621367",
+    "disease_name": "Atrial Fibrillation",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621409",
+    "disease_name": "Myocardial Infarction",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621469",
+    "disease_name": "Stroke Ischemic",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621338",
+    "disease_name": "Deep Vein Thrombosis",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621394",
+    "disease_name": "Pulmonary Embolism",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621495",
+    "disease_name": "Aortic Stenosis",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621510",
+    "disease_name": "Cardiomyopathy Dilated",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621518",
+    "disease_name": "Cardiomyopathy Hypertrophic",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621451",
+    "disease_name": "Peripheral Artery Disease",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621193",
+    "disease_name": "Mitral Valve Prolapse",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:617981",
+    "disease_name": "Angina Pectoris",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:620679",
+    "disease_name": "Hyperlipidemia Familial",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:619120",
+    "disease_name": "Endocarditis",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621235",
+    "disease_name": "Type 2 Diabetes Mellitus",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621457",
+    "disease_name": "Obesity",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621507",
+    "disease_name": "Hypothyroidism",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621400",
+    "disease_name": "Hyperthyroidism",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:618660",
+    "disease_name": "Gout",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621524",
+    "disease_name": "Metabolic Syndrome",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:620195",
+    "disease_name": "Hyperuricemia",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621313",
+    "disease_name": "Hypercholesterolemia",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:620939",
+    "disease_name": "Hypertriglyceridemia",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:620305",
+    "disease_name": "Adrenal Insufficiency",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:620990",
+    "disease_name": "Cushing Syndrome",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:618157",
+    "disease_name": "Acromegaly",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:617675",
+    "disease_name": "Hyperprolactinemia",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:620366",
+    "disease_name": "Hyperparathyroidism",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:620953",
+    "disease_name": "Vitamin D Deficiency",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:620654",
+    "disease_name": "Iron Deficiency Anemia",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621224",
+    "disease_name": "Pernicious Anemia",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621554",
+    "disease_name": "Osteoporosis",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:619743",
+    "disease_name": "Rickets",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621455",
+    "disease_name": "Asthma",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621316",
+    "disease_name": "Chronic Obstructive Pulmonary Disease",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621475",
+    "disease_name": "Pneumonia",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621004",
+    "disease_name": "Tuberculosis",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621411",
+    "disease_name": "Sleep Apnea",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621234",
+    "disease_name": "Bronchiectasis",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621546",
+    "disease_name": "Lung Cancer",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621261",
+    "disease_name": "Pleural Effusion",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621461",
+    "disease_name": "Alzheimer Disease",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621516",
+    "disease_name": "Parkinson Disease",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621533",
+    "disease_name": "Epilepsy",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621449",
+    "disease_name": "Multiple Sclerosis",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:620065",
+    "disease_name": "Bipolar Disorder",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621407",
+    "disease_name": "Schizophrenia",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621535",
+    "disease_name": "Anxiety Disorder",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621402",
+    "disease_name": "Attention Deficit Hyperactivity Disorder",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621331",
+    "disease_name": "Dementia Vascular",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621525",
+    "disease_name": "Neuropathy Peripheral",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:620683",
+    "disease_name": "Carpal Tunnel Syndrome",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:269500",
+    "disease_name": "Trigeminal Neuralgia",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621384",
+    "disease_name": "Gastroesophageal Reflux Disease",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:620658",
+    "disease_name": "Peptic Ulcer Disease",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621375",
+    "disease_name": "Inflammatory Bowel Disease",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:618264",
+    "disease_name": "Irritable Bowel Syndrome",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621337",
+    "disease_name": "Liver Cirrhosis",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621030",
+    "disease_name": "Hepatitis B",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621016",
+    "disease_name": "Gallstones",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621522",
+    "disease_name": "Colorectal Cancer",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621369",
+    "disease_name": "Rheumatoid Arthritis",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621334",
+    "disease_name": "Osteoarthritis",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:620022",
+    "disease_name": "Ankylosing Spondylitis",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:615923",
+    "disease_name": "Fibromyalgia",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:615522",
+    "disease_name": "Tendinopathy",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:618000",
+    "disease_name": "Bursitis",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:614723",
+    "disease_name": "Gout Arthritis",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:616744",
+    "disease_name": "Psoriatic Arthritis",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621528",
+    "disease_name": "Chronic Kidney Disease",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621056",
+    "disease_name": "Urinary Tract Infection Recurrent",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:610603",
+    "disease_name": "Benign Prostatic Hyperplasia",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621470",
+    "disease_name": "Psoriasis",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621439",
+    "disease_name": "Atopic Dermatitis",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:620502",
+    "disease_name": "Acne Vulgaris",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:618307",
+    "disease_name": "Rosacea",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621233",
+    "disease_name": "Vitiligo",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621526",
+    "disease_name": "Breast Cancer",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621479",
+    "disease_name": "Prostate Cancer",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621443",
+    "disease_name": "Thyroid Cancer",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  },
+  {
+    "orpha_code": null,
+    "omim_id": "MIM:621230",
+    "disease_name": "Lymphoma Non-Hodgkin",
+    "synonyms": [],
+    "disease_type": "Common disease",
+    "disease_category": "common",
+    "icd_10_code": "",
+    "prevalence": "Common (>1/1000)",
+    "age_of_onset": [
+      "Adult"
+    ],
+    "gender_bias": "No bias",
+    "symptoms": [
+      {
+        "name": "fatigue",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "pain or discomfort",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "general malaise",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      },
+      {
+        "name": "systemic inflammation",
+        "hpo": "",
+        "frequency_label": "Occasional (29-5%)",
+        "frequency_score": 0.17
+      }
+    ],
+    "gene_involved": [],
+    "inheritance": "Unknown",
+    "lab_findings": [],
+    "misdiagnosed_as": [],
+    "pubmed_ids": []
+  }
+]
