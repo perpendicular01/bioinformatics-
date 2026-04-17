@@ -8,7 +8,24 @@ with open("orphanet_full.json", "r", encoding="utf-8") as f:
 with open("data/final_dataset_filled.json", "r", encoding="utf-8") as f:
     final = json.load(f)
 
-
+# Fill missing fields from Orphanet
+for rec in final:
+    orpha = rec.get("orpha_code")
+    if orpha and orpha in orphanet:
+        src = orphanet[orpha]
+        # Fill synonyms if missing
+        if not rec.get("synonyms") and src.get("synonyms"):
+            rec["synonyms"] = src["synonyms"]
+        # Fill gene_involved if missing
+        if not rec.get("gene_involved") and src.get("gene_involved"):
+            rec["gene_involved"] = src["gene_involved"]
+        # Also ensure prevalence, age_of_onset, inheritance are filled (though already done)
+        if not rec.get("prevalence") and src.get("prevalence"):
+            rec["prevalence"] = src["prevalence"]
+        if not rec.get("age_of_onset") and src.get("age_of_onset"):
+            rec["age_of_onset"] = src["age_of_onset"]
+        if not rec.get("inheritance") and src.get("inheritance"):
+            rec["inheritance"] = src["inheritance"]
 
 # After merging, set placeholders for any remaining empty required fields
 for rec in final:
